@@ -1,0 +1,16 @@
+D:\COMP1551_final pj\WindowsFormsApp_CW\bin\Debug\WindowsFormsApp_CW.exe.config
+D:\COMP1551_final pj\WindowsFormsApp_CW\bin\Debug\WindowsFormsApp_CW.exe
+D:\COMP1551_final pj\WindowsFormsApp_CW\bin\Debug\WindowsFormsApp_CW.pdb
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.csproj.AssemblyReference.cache
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.CreatorForm.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.GameForm.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.Login.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.MultipleChoice.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.OpenQuestion.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.PlayerForm.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.Properties.Resources.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.TrueFalseQuestion.resources
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.csproj.GenerateResource.cache
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.csproj.CoreCompileInputs.cache
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.exe
+D:\COMP1551_final pj\WindowsFormsApp_CW\obj\Debug\WindowsFormsApp_CW.pdb
